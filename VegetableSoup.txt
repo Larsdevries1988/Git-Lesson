@@ -5,6 +5,7 @@ Ingredients:
  - five slices of smoked paprika
  - five tomatoes
  - two onions
+ - garlic
  - bouillon
  - pepper
  - bay leaves
